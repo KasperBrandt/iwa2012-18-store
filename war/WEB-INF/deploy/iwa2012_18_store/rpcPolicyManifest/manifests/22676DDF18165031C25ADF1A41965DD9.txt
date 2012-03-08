@@ -1,0 +1,2 @@
+serviceClass: iwastore.client.GreetingService
+path: 1B6C09DCA926EAD118E2DA0B5D058635.gwt.rpc
